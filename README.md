@@ -8,7 +8,7 @@ using a relatively simple interface.**
 * **This is the official successor of the** [Undetected-Chromedriver](https://github.com/ultrafunkamsterdam/undetected-chromedriver/) **python package.**
 * **No more webdriver, no more selenium**
 
-Direct communication provides even better resistance against web applicatinon firewalls (WAF’s), while
+Direct communication provides even better resistance against web application firewalls (WAF’s), while
 performance gets a massive boost.
 This module is, contrary to undetected-chromedriver, fully asynchronous.
 
